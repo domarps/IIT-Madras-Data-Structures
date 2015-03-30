@@ -1,3 +1,8 @@
+/*
+Created by Pramod S <--> domarps
+Problem Statement : http://cprogrammingquest.blogspot.com/2015/01/pascals-triangle-sum-of-selected.html
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
