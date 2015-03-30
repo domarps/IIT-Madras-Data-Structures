@@ -7,6 +7,7 @@ This is a course about the design and usage of different data structures to make
 It is assumed that the student is atleast comfortable with the C programming language and is willing to learn and practice as the course progresses. 
 
 My Vision : 
+            
             While(Programming and Data Structures)
             
             {
