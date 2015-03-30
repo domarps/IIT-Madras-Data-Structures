@@ -8,9 +8,15 @@ It is assumed that the student is atleast comfortable with the C programming lan
 
 My Vision : 
             While(Programming and Data Structures)
-             { 
+            
+            {
+            
                     Practice Programming;
+                    
             }
+            
             Programming is Pleasure;
+            
             Enjoy Programming; 
+            
             //Sorry for the Cheesy Snippet.
